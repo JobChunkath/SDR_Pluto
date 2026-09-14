@@ -26,6 +26,6 @@ Demodulation & Filtering: Design Low-Pass Filter (LPF) stages and quadrature FM 
 Audio Resampling & Sink: Downsample audio streams to standard sample rates (e.g., 44.1 kHz / 48 kHz) for real-time playback via computer speakers while displaying live spectrum sinks.
 
 Exp 3: FM Signal Transmission
-Audio Source Processing: Ingest custom .wav audio files as modulating signals.
+Audio Source Processing: Ingest custom .wav audio files as modulating signals. (Please note that a audio file is not provided in this repository; you will need to use your own .wav file.)
 Transmitter Architecture: Implement rate matching, interpolation, and wideband FM modulation stages.
 Over-the-Air (OTA) Transmission: Route the modulated baseband signal to the ADALM-PLUTO sink for transmission over specified ISM/RF bands.
